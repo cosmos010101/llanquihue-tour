@@ -51,8 +51,8 @@ git clone https://github.com/usuario/repositorio-evaluacion-final.git
 
 ---
 
-**Repositorio GitHub:** \[Pega aquí el enlace al repositorio]
-**Fecha de entrega:** \[DD/MM/2025]
+**Repositorio GitHub:** (https://github.com/cosmos010101/llanquihue-tour.git)
+**Fecha de entrega:** 15/06/2026
 
 ---
 
