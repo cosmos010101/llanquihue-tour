@@ -37,7 +37,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone (https://github.com/cosmos010101/llanquihue-tour.git)
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
